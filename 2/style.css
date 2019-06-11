@@ -74,11 +74,11 @@ a:hover {
 }
 
 .feature {
-border: 10px solid red;
+border: 10px solid #41A3C0;
 margin: 15px;
 padding: 15px 0;
 text-align: center;
-width: 400px
+width: 400px;
 background: #FAFAFA;
 }
 
